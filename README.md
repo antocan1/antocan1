@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Título del Proyecto 
 
-![Imagen de Portada](url_de_la_imagen) 
+![Imagen de Portada](Recursos git/gatocomuneuropeo.jpeg) 
 
 ## Descripción 
 
